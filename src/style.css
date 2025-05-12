@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@100..900&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-outfit: 'Outfit', sans-serif;
+  --color-primary-cyan: hsl(178, 100%, 50%);
+  --color-primary-blue: hsl(215, 51%, 70%);
+  --color-big-bg: hsl(217, 54%, 11%);
+  --color-card-bg: hsl(216, 50%, 16%);
+  --color-line: hsl(215, 32%, 27%);
+  --color-white: hsl(0, 0%, 100%);
+}
+
