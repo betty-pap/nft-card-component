@@ -14,7 +14,7 @@ function App() {
 
             <div className='absolute inset-0 bg-(--color-primary-cyan) opacity-50'></div>
 
-            <img src="/images/icon-view.svg" alt="eye" className='fill-white z-10'/>
+            <img src="/images/icon-view.svg" alt="eye" className=' z-10'/>
           </div>
         </div>
 
